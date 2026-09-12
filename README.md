@@ -4,8 +4,6 @@ Official PyTorch implementation of PV-MambaSeg for photovoltaic cell defect segm
 > *IEEE Transactions on Industrial Informatics (TII)*
 > DOI: [10.1109/TII.2026.3707683](https://doi.org/10.1109/TII.2026.3707683)
 
-[![IEEE Paper](https://img.shields.io/badge/Paper‑IEEE‑0066cc)](https://ieeexplore.ieee.org/document/11606595)
-[![License](https://img.shields.io/badge/License‑MIT‑green)](LICENSE)
 
 ## 📋 Abstract
 Pixel‑level segmentation of diverse defects for photovoltaic (PV) modules is critical for intelligent operation and maintenance of large‑scale PV power plants. Existing approaches suffer two major bottlenecks:
